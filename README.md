@@ -1,17 +1,20 @@
-### Hi there 👋
-![MacBook Pro - 1](https://user-images.githubusercontent.com/33032645/96334095-5f9b0380-1098-11eb-9ed0-c0869f0ee99a.jpg)
+I am an Information Systems undergraduate passionate about building web and mobile applications. 
 
-<!--
-**LulukFadiyah246/LulukFadiyah246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of the technologies I studied:
+HTML,
+PHP,
+MySQL,
+JavaScript,
+CSS,
+Java,
+C ++,
+Codeigniter,
+Laravel,
+etc
  
-Here are some ideas to get you started:
+A litle about me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I’m currently working on Gitsolution, PT 
+- 📚 I’m currently learning about technology
+- 📱 Reach me on email : lulukfadiyah246@gmail.com or WhatsApp +6285540313781
+
