@@ -1,3 +1,6 @@
+Hi, i'm Luluk Fadiyah 👋
+![MacBook Pro - 1](https://user-images.githubusercontent.com/33032645/96334095-5f9b0380-1098-11eb-9ed0-c0869f0ee99a.jpg)
+
 I am an Information Systems undergraduate passionate about building web and mobile applications. 
 
 Some of the technologies I studied:
