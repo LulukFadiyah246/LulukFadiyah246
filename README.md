@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src=”https://drive.google.com/drive/u/0/folders/1R024KOVnGO1KAlN_LNtAZe7ysC16B2cs”>
+![MacBook Pro - 1](https://user-images.githubusercontent.com/33032645/96334095-5f9b0380-1098-11eb-9ed0-c0869f0ee99a.jpg)
+
 <!--
 **LulukFadiyah246/LulukFadiyah246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
