@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<img src=”https://drive.google.com/drive/u/0/folders/1R024KOVnGO1KAlN_LNtAZe7ysC16B2cs”>
 <!--
 **LulukFadiyah246/LulukFadiyah246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src=”https://drive.google.com/drive/u/0/folders/1R024KOVnGO1KAlN_LNtAZe7ysC16B2cs”>
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
